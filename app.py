@@ -15,5 +15,5 @@ def main():
     largest = find_largest_num(a,b,c)
     st.write(f"The Largest number is: {largest}")
 
-if _name_ == "_main_":
+if __ name __ == '__ main __':
   main()
